@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Affan",
+        "age": 21,
+        "email": "affan@gmail.com",
+        "pin": 1234,
+        "accountNo": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Talha",
+        "age": 23,
+        "email": "talha@gmail.com",
+        "pin": 5678,
+        "accountNo": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Rafay",
+        "age": 20,
+        "email": "rafay@gmail.com",
+        "pin": 1342,
+        "accountNo": "aLs28!5",
+        "balance": 1000
+    }
+]
